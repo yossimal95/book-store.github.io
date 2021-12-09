@@ -1,4 +1,4 @@
-# Book Srore
+# Book Store
 
 Simple Angular app - Bookstore example.
 
